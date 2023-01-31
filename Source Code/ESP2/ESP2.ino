@@ -5,9 +5,9 @@
 #include <Adafruit_Sensor.h>
 
 //define wifi & mqtt server
-const char* ssid = "ASUS_X008";
-const char* password = "12345679";
-const char* mqtt_server = "192.168.43.188";
+const char* ssid = "ssid";
+const char* password = "password";
+const char* mqtt_server = "xxx.xxx.xx.xx";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
