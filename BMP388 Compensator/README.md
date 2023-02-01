@@ -1,1 +1,1 @@
-## The code for compensator still under research
+## The compensator is still under research & the code is incomplete
